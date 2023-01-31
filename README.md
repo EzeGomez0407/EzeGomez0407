@@ -1,7 +1,7 @@
 <img src='https://media3.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif?cid=ecf05e47n640vbibase78kj3e1rk8fk2zi2wxqtkvej4yv98&rid=giphy.gif&ct=g' width=170 height=170 align='right'/>
 <h1>Hola, me llamo Ezequiel 👋</h1>
 
-Soy Desarrollador Full-Stack. soy partidario de seguir buenas prácticas y conseguir un código limpio y que sea de fácil mantenimiento. En este repositorio tengo mis proyectos en los que trabajé y es en el cuál voy a estar subiendo mis proximos proyectos.
+Soy Desarrollador Full-Stack. soy partidario de seguir buenas prácticas y conseguir un código limpio y que sea fácil mantener. En este repositorio tengo mis proyectos en los que trabajé y es en el cuál voy a estar subiendo mis proximos proyectos.
 <hr></hr>
 Experiencias:
 
