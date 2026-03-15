@@ -22,8 +22,7 @@ Experiencias:
 - Express.js
 - PostgreSQL
 - Sequelize
-- MongoDb
-- Mongoose
+- React Native / Expo
 - Google Clouds
 - Auth0
 
