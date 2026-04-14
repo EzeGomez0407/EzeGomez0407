@@ -44,3 +44,4 @@ Proyectos Académicos:
 Me pueden contactar por mail: gomezmerloe@gmail.com <br>
 
 LinkedIn: https://www.linkedin.com/in/eze-gomez-merlo/
+Portfolio: https://ezegomezmerlo.vercel.app/
