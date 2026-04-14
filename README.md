@@ -4,6 +4,7 @@
 Soy Desarrollador Full-Stack. soy partidario de seguir buenas prácticas y conseguir un código limpio y que sea fácil mantener. En este repositorio tengo mis proyectos en los que trabajé y es en el cuál voy a estar subiendo mis proximos proyectos.
 <hr></hr>
 Experiencias:
+
 - Desarrollador Web Frontend – Proyecto SPA para Iglesia.
   Desarrollo de una aplicación web para una iglesia, orientada a la comunicación institucional y difusión de contenidos.
   Implementación de secciones informativas como eventos y contacto, e integración de una radio online dentro de la aplicación.
@@ -15,6 +16,8 @@ Experiencias:
   La aplicación permite registrar herramientas, stock disponible, estado, observaciones y ubicación por obra, mejorando la trazabilidad y organización de los recursos.
   Desarrollo completo de frontend y backend, con foco en usabilidad, organización de la información y escalabilidad.
   React-Tailwind-Zustand-Nodejs-Express-PostgreSQL.
+
+Proyectos Académicos:
 
 - Hice un proyecto individual donde debía consumir una api de recetas y renderizar la información de cada receta en mi aplicación, también se puede crear recetas que se guardan en mi base de datos SQL; las recetas se pueden filtrar, ordenar y buscar por nombre. Link al repo: https://github.com/EzeGomez0407/Proyecto-Individual-
 
