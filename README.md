@@ -29,9 +29,9 @@ Proyectos Académicos:
 - JavaScript
 - HTML5
 - CSS
-- React.js
-- Redux
-- Next.js
+- React/Next.js
+- Redux/Zustand
+- Vue/Nuxt
 - Node.js
 - Express.js
 - PostgreSQL
@@ -39,6 +39,7 @@ Proyectos Académicos:
 - React Native / Expo
 - Google Clouds
 - Auth0
+- Supabase
 
 Me pueden contactar por mail: gomezmerloe@gmail.com <br>
 
